@@ -22,13 +22,13 @@ Within the engine exists model/environment editing and building, animations, and
 ## Beginner Contribution Guide 
 1. Fork the repository 
 2. Clone the repo using 
-'git clone https://github.com/YOURUSERNAME/LumixEngine.git'
+`git clone https://github.com/YOURUSERNAME/LumixEngine.git`
 3. Make changes and stage them using 
-'git add <fileName>'
+`git add <fileName>`
 4. Commit your changes using 
-'git commit -m "Your message"'
+`git commit -m "Your message"`
 5. Push your changes to your repo using 
-'git push -u origin'
+`git push -u origin`
 6. Open up a pull request to the repo
 
 
