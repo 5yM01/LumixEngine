@@ -6,7 +6,31 @@
 [![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
 [![Twitter](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/mikulasflorek)
 
-3D Game Engine
+## Description
+Lumix is a 3D Game Engine built with C++ for the Windows and Linux Operating Systems.
+Currently, there exists 3 different versions for download: OpenGL, DirectX11, and DirectX12.
+Within the engine exists model/environment editing and building, animations, and physics options.
+
+## User Guide
+1. Download the latest release from https://github.com/nem0/LumixEngine/releases
+2. Unzip the file and run the 'studio' app file to start the engine
+3. From the home page, you can change to directory your project gets saved to
+4. If you want to familiarize yourself with the engine, open one of the 'demo' universes
+5. To start a new project, click 'New Universe'
+6. You can now start building your game!
+
+## Beginner Contribution Guide 
+1. Fork the repository 
+2. Clone the repo using 
+'git clone https://github.com/YOURUSERNAME/LumixEngine.git'
+3. Make changes and stage them using 
+'git add <fileName>'
+4. Commit your changes using 
+'git commit -m "Your message"'
+5. Push your changes to your repo using 
+'git push -u origin'
+6. Open up a pull request to the repo
+
 
 * [Getting started](https://github.com/nem0/LumixEngine/wiki/Getting-started) | [Video](https://www.youtube.com/watch?v=OjQKTA5ia2U)
 * [Features](https://github.com/nem0/LumixEngine/wiki/Features)
